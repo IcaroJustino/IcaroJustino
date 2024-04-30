@@ -1,19 +1,5 @@
 <h1 align="center">Ola meu nome é Icaro Miranda</h1>
-<h3 align="center">Um desenvolvedor FullStack sempre em busca de desafios</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=icarojustino&label=Profile%20views&color=0e75b6&style=flat" alt="icarojustino" /> </p>
-
-- 🔭 Atualmente trabalhando no [MIPS Code](https://github.com/tads-cnat/MipsCode)
-
-- 🌱 Atualmente apredendo **Estrutura de dados e Desenvolvimento para sistemas distribuidos**
-
-- 💬 Pode me perguntar sobre **Desenvolvimento Front End**
-
-- 📫 Entre em Contato comigo ! **icaromirandajustino@gmail.com**
-
-- 📄 Descubra um pouco mais sobre minhas experiencias [https://drive.google.com/file/d/1z4QPd7LBH0jb2lq7W0npj-muigd7vSt7/view?usp=sharing](https://drive.google.com/file/d/1z4QPd7LBH0jb2lq7W0npj-muigd7vSt7/view?usp=sharing)
-
-- ⚡ Sempre é bom lembrar **"Os bugs não são erros, são oportunidades para aprender e melhorar o código."**
+<h3 align="center">Desenvolvedor Full stack </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
