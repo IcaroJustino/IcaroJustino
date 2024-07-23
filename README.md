@@ -6,15 +6,7 @@
 Meu nome é Icaro miranda, sou um desenvolvedor **FullStack** que está sempre procurando novos desafios e experimentando novas technologias e metodologias sempre que possivel , para mais informações basta acessar o meu  [Curriculo](https://drive.google.com/file/d/1-NEd8sd2EEEFYVyanu16c1oEp5HDsj4P/view?usp=sharing)
 
 
-<style>
-    img {
-        margin-top: 10px;
-    }
-    h2{
-        margin-bottom:0px;
-        margin-top:20px;
-    }
-</style>
+
 
 <h2>Conhecimentos </h2>
 
