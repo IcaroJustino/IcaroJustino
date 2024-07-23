@@ -3,7 +3,7 @@
 
 
 # Ola meu nome é Icaro Miranda  
-Desenvolvedor Full Stack Com conhecimento em múltiplas partes do ciclo de Devops, experimentando sempre novas tecnologias para ampliar o meu conhecimento e crescer como desenvolvedor  [Curriculo](https://drive.google.com/file/d/1-NEd8sd2EEEFYVyanu16c1oEp5HDsj4P/view?usp=sharing)
+Desenvolvedor Full Stack Com conhecimento em múltiplas partes do ciclo de Devops, experimentando sempre novas tecnologias para ampliar o meu conhecimento e crescer como desenvolvedor 
 
 
 
